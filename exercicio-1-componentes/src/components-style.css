@@ -1,0 +1,15 @@
+.title {
+  color: green;
+}
+
+.produto-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.produto {
+  width: 100%;
+  padding: 12px 6px;
+  border: 1px solid black;
+}
